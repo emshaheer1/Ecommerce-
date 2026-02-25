@@ -1,0 +1,123 @@
+[
+  {
+    "id": "shorts-black-001",
+    "name": "Felicia Performance Shorts – Night",
+    "category": "Shorts",
+    "price": 34.99,
+    "image": "images/shorts-black.png",
+    "description": "Lightweight performance shorts with an all-over monogram pattern in purple on black. Designed for training, streetwear, and everyday comfort.",
+    "size": "Medium",
+    "color": "Black / Purple",
+    "material": "Moisture‑wicking polyester",
+    "fit": "Athletic above-knee fit"
+  },
+  {
+    "id": "shorts-red-002",
+    "name": "Felicia Performance Shorts – Ember",
+    "category": "Shorts",
+    "price": 34.99,
+    "image": "images/shorts-red.png",
+    "description": "Statement red shorts with a gold monogram pattern for a bold, court-ready look.",
+    "size": "Medium",
+    "color": "Red / Gold",
+    "material": "Moisture‑wicking polyester",
+    "fit": "Athletic above-knee fit"
+  },
+  {
+    "id": "hoodie-hm1-101",
+    "name": "Felicia Signature Hoodie – Crimson Grid",
+    "category": "Hoodies",
+    "price": 64.99,
+    "image": "images/hoodie-hm1.png",
+    "description": "Crimson hoodie with repeating circular crest artwork, soft interior, and a relaxed, modern fit.",
+    "size": "Medium",
+    "color": "Crimson / Gold",
+    "material": "Mid‑weight cotton blend fleece",
+    "fit": "Relaxed fit"
+  },
+  {
+    "id": "hoodie-hm2-102",
+    "name": "Felicia Signature Hoodie – Neon Grid",
+    "category": "Hoodies",
+    "price": 64.99,
+    "image": "images/hoodie-hm2.png",
+    "description": "Black hoodie covered in a subtle neon grid pattern, perfect for late‑night sessions and city walks.",
+    "size": "Medium",
+    "color": "Black / Purple",
+    "material": "Mid‑weight cotton blend fleece",
+    "fit": "Relaxed fit"
+  },
+  {
+    "id": "hoodie-black-103",
+    "name": "Felicia Court Hoodie – Triple Ball",
+    "category": "Hoodies",
+    "price": 69.99,
+    "image": "images/hoodie-black.png",
+    "description": "Black court‑inspired hoodie with bold basketball line art wrapping across the chest and sleeves.",
+    "size": "Medium",
+    "color": "Black / White",
+    "material": "Heavyweight cotton blend fleece",
+    "fit": "Relaxed fit"
+  },
+  {
+    "id": "hoodie-other-104",
+    "name": "Felicia Drive Hoodie – Player Silhouette",
+    "category": "Hoodies",
+    "price": 69.99,
+    "image": "images/hoodie-other.png",
+    "description": "Dynamic player silhouette and typographic artwork for those who stay hungry, humble, and hustle.",
+    "size": "Medium",
+    "color": "Charcoal / White",
+    "material": "Heavyweight cotton blend fleece",
+    "fit": "Relaxed fit"
+  },
+  {
+    "id": "hoodie-white-105",
+    "name": "Felicia Court Hoodie – Hoop Sketch",
+    "category": "Hoodies",
+    "price": 69.99,
+    "image": "images/hoodie-white.png",
+    "description": "White hoodie featuring sketched backboard artwork and Felicia court branding.",
+    "size": "Medium",
+    "color": "White / Black",
+    "material": "Heavyweight cotton blend fleece",
+    "fit": "Relaxed fit"
+  },
+  {
+    "id": "cap-white-201",
+    "name": "Felicia Snapback – White Court",
+    "category": "Caps",
+    "price": 29.99,
+    "image": "images/cap-white.png",
+    "description": "Crisp white snapback with monochrome court illustration across the brim and front-panels typography.",
+    "size": "One size (adjustable)",
+    "color": "White / Black",
+    "material": "Structured cotton twill",
+    "fit": "Snapback"
+  },
+  {
+    "id": "cap-black-202",
+    "name": "Felicia Snapback – Player Silhouette",
+    "category": "Caps",
+    "price": 29.99,
+    "image": "images/cap-black.png",
+    "description": "Black snapback featuring a driving player silhouette and bold typographic details.",
+    "size": "One size (adjustable)",
+    "color": "Black / White",
+    "material": "Structured cotton twill",
+    "fit": "Snapback"
+  },
+  {
+    "id": "cap-black2-203",
+    "name": "Felicia Snapback – Court Motion",
+    "category": "Caps",
+    "price": 29.99,
+    "image": "images/cap-black2.png",
+    "description": "Black snapback with multiple basketball line art motifs and Hungry Humble Hustle tagline.",
+    "size": "One size (adjustable)",
+    "color": "Black / White",
+    "material": "Structured cotton twill",
+    "fit": "Snapback"
+  }
+]
+
